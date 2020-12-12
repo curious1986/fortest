@@ -53,5 +53,87 @@ http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 http://liveplay-kk.rtxapp.com/live/program/live/lnwshd/2300000/mnf.m3u8
 #EXTINF:-1 ,TIANJIN
 http://liveplay-kk.rtxapp.com/live/program/live/tjwshd/2300000/mnf.m3u8
-#EXTINF:-1 ,LIAONING
-http://liveplay-kk.rtxapp.com/live/program/live/lnwshd/2300000/mnf.m3u8
+#EXTINF:-1 ,CCTV1
+http://8888.jilu8.cn/2000210103.m3u8
+#EXTINF:-1 ,CCTV2
+http://8888.jilu8.cn/2000203603.m3u8
+#EXTINF:-1 ,CCTV3
+http://8888.jilu8.cn/2000203803.m3u8
+#EXTINF:-1 ,CCTV4
+http://8888.jilu8.cn/2000204803.m3u8
+#EXTINF:-1 ,CCTV5
+http://8888.jilu8.cn/2000205103.m3u8
+#EXTINF:-1 ,CCTV5+
+http://8888.jilu8.cn/2000204503.m3u8
+#EXTINF:-1 ,CCTV-6
+http://8888.jilu8.cn/2000203303.m3u8
+#EXTINF:-1 ,CCTV7
+http://8888.jilu8.cn/2000510003.m3u8
+#EXTINF:-1 ,CCTV8
+http://8888.jilu8.cn/2000203903.m3u8
+#EXTINF:-1 ,CCTV9
+http://8888.jilu8.cn/2000499403.m3u8
+#EXTINF:-1 ,CCTV10
+http://8888.jilu8.cn/2000203503.m3u8
+#EXTINF:-1 ,CCTV11
+http://8888.jilu8.cn/2000204103.m3u8
+#EXTINF:-1 ,CCTV12
+http://8888.jilu8.cn/2000202603.m3u8
+#EXTINF:-1 ,CCTV13
+http://8888.jilu8.cn/2000204603.m3u8
+#EXTINF:-1 ,CCTV14
+http://8888.jilu8.cn/2000204403.m3u8
+#EXTINF:-1 ,CCTV15
+http://8888.jilu8.cn/2000205003.m3u8
+#EXTINF:-1 ,CCTV17
+http://8888.jilu8.cn/2000204203.m3u8
+#EXTINF:-1 ,CCTV4K
+http://8888.jilu8.cn/2000266303.m3u8
+#EXTINF:-1 ,CGTN
+http://8888.jilu8.cn/2001656803.m3u8
+#EXTINF:-1 ,Jiangsu
+http://8888.jilu8.cn/2000295603.m3u8
+#EXTINF:-1 ,Beijing
+http://8888.jilu8.cn/2000272103.m3u8
+#EXTINF:-1 ,Guangdong
+http://8888.jilu8.cn/2000292703.m3u8
+#EXTINF:-1 ,Zhejiang
+http://8888.jilu8.cn/2000295503.m3u8
+#EXTINF:-1 ,Chongqing
+http://8888.jilu8.cn/2000297803.m3u8
+#EXTINF:-1 ,Sichuan
+http://8888.jilu8.cn/2000295003.m3u8
+#EXTINF:-1 ,Shenzhen
+http://8888.jilu8.cn/2000292203.m3u8
+#EXTINF:-1 ,Shandong
+http://8888.jilu8.cn/2000294803.m3u8
+#EXTINF:-1 ,Liaoning
+http://8888.jilu8.cn/2000281303.m3u8
+#EXTINF:-1 ,Jiangxi
+http://8888.jilu8.cn/2000294103.m3u8
+#EXTINF:-1 ,Hunan
+http://8888.jilu8.cn/2000296203.m3u8
+#EXTINF:-1 ,Hubei
+http://8888.jilu8.cn/2000294503.m3u8
+#EXTINF:-1 ,Heilongjiang
+http://8888.jilu8.cn/2000293903.m3u8
+#EXTINF:-1 ,Henan
+http://8888.jilu8.cn/2000296103.m3u8
+#EXTINF:-1 ,Hebei
+http://8888.jilu8.cn/2000293403.m3u8
+#EXTINF:-1 ,Hainan
+http://8888.jilu8.cn/2000291503.m3u8
+#EXTINF:-1 ,Anhui
+http://8888.jilu8.cn/2000298003.m3u8
+#EXTINF:-1 ,Guizhou
+http://8888.jilu8.cn/2000293303.m3u8
+#EXTINF:-1 ,Guangxi
+http://8888.jilu8.cn/2000294203.m3u8
+#EXTINF:-1 ,Dongnan
+http://8888.jilu8.cn/2000292503.m3u8
+#EXTINF:-1 ,Dongfang
+http://8888.jilu8.cn/2000292403.m3u8
+#EXTINF:-1 ,Jilin
+http://8888.jilu8.cn/2000284703.m3u8
+#EXTINF:-1 ,Gansu
+http://8888.jilu8.cn/2000294603.m3u8
