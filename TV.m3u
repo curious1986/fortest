@@ -15,8 +15,16 @@ http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8?time=1598245964499
 http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
 #EXTINF:-1 ,CCTV-5HD
 http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-5HD-2
+http://sr14.douphy.com/101938141962001.m3u8
+#EXTINF:-1 ,CCTV-5HD-2
+http://sr13.douphy.com/5tv.m3u8
 #EXTINF:-1 ,CCTV-5+HD
 http://liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-5+HD-2
+http://sr14.douphy.com/101911303857001.m3u8
+#EXTINF:-1 ,CCTV-5+HD-3
+http://sr14.douphy.com/jia5.m3u8
 #EXTINF:-1 ,CCTV-6
 http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
 #EXTINF:-1 ,CCTV-7
