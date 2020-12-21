@@ -3,3 +3,5 @@
 http://39.134.65.162/PLTV/88888888/224/3221225491/index.m3u8
 #EXTINF:-1 ,CCTV9-0
 https://sr14.qlowy.com/101911303857001.m3u8
+#EXTINF:-1 ,CCTV9-2
+https://sr14.qlowy.com/jia5.m3u8
