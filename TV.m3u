@@ -1,9 +1,53 @@
 #EXTM3U
+#EXTINF:-1 ,CCTV1
+http://aliplay.17zuoye.cn/live/993ba28275cbb0e1e2e75049b4946211.m3u8
+#EXTINF:-1 ,CCTV2
+http://aliplay.17zuoye.cn/live/f15e274d24d49a7aa31aefe9a24ce8a8.m3u8
+#EXTINF:-1 ,CCTV3
+http://aliplay.17zuoye.cn/live/657d1080713e69dc8fbe8fcd31e05e65.m3u8
+#EXTINF:-1 ,CCTV4
+http://aliplay.17zuoye.cn/live/9a6fa503341fc219a6d3c0d7437ee594.m3u8
 #EXTINF:-1 ,CCTV5
-http://39.134.65.162/PLTV/88888888/224/3221225491/index.m3u8
-#EXTINF:-1 ,CCTV5-1
-http://sr13.qlowy.com/8VS2128464_720P.m3u8
-#EXTINF:-1 ,CCTV9-0
-https://sr14.qlowy.com/101911303857001.m3u8
-#EXTINF:-1 ,CCTV9-2
-https://sr14.qlowy.com/jia5.m3u8
+http://aliplay.17zuoye.cn/live/d0f4db23551f95307a4db080eb932933.m3u8
+#EXTINF:-1 ,CCTV6
+http://aliplay.17zuoye.cn/live/248652b1f1cea20c630d9c71e9e4d32b.m3u8
+#EXTINF:-1 ,CCTV7
+http://aliplay.17zuoye.cn/live/02ce4a76c02119a1b2238dc165d8d2db.m3u8
+#EXTINF:-1 ,CCTV8
+http://aliplay.17zuoye.cn/live/7089da572d3f152fcba8d33b06b36f5e.m3u8
+#EXTINF:-1 ,CCTV9
+http://aliplay.17zuoye.cn/live/69757fadc0910260231ca193145885d2.m3u8
+#EXTINF:-1 ,CCTV10
+http://aliplay.17zuoye.cn/live/88d4a2c98787a774457b4774c35427b1.m3u8
+#EXTINF:-1 ,CCTV11
+http://aliplay.17zuoye.cn/live/11bfdb7569cf98aba4abce925aa81cc1.m3u8
+#EXTINF:-1 ,CCTV12
+http://aliplay.17zuoye.cn/live/97be6fde85ba57d163fcc24a691ecfe9.m3u8
+#EXTINF:-1 ,CCTV13
+http://aliplay.17zuoye.cn/live/13a6da50fc75844039b2ed891ede5a19.m3u8
+#EXTINF:-1 ,CCTV14
+http://aliplay.17zuoye.cn/live/a3bed5a2c32f54462fd2e426e5bbd73b.m3u8
+#EXTINF:-1 ,CCTV15
+http://aliplay.17zuoye.cn/live/655f8d0e9b5fc80c73a8b96526aca1ab.m3u8
+#EXTINF:-1 ,CCTV5+
+http://aliplay.17zuoye.cn/live/6d3102ff41bf2e9ae4656ccfe97b5e28.m3u8
+#EXTINF:-1 ,SHENZHEN
+http://aliplay.17zuoye.cn/live/680673bf9696aba0c2266e167bc65ab7.m3u8
+#EXTINF:-1 ,BEIJING
+http://aliplay.17zuoye.cn/live/11440e4960b5aa6a476a7368c4b3d1eb.m3u8
+#EXTINF:-1 ,DONGFANG
+http://aliplay.17zuoye.cn/live/ba5c1c57c2d87ef71c184e9d307f77ff.m3u8
+#EXTINF:-1 ,TIANJIN
+http://aliplay.17zuoye.cn/live/af331fac36ed19c5341badf085506f1a.m3u8
+#EXTINF:-1 ,CHONGQING
+http://aliplay.17zuoye.cn/live/2bf3f3fc8c554998c53c30488e4c8c4b.m3u8
+#EXTINF:-1 ,ANHUI
+http://aliplay.17zuoye.cn/live/a919148354828202a8fcaa0bfec27bef.m3u8
+#EXTINF:-1 ,ZHEJIANG
+http://aliplay.17zuoye.cn/live/fb01b4f3536a22a52e9475f6b3f48070.m3u8
+#EXTINF:-1 ,JIANGSU
+http://aliplay.17zuoye.cn/live/d50b6b8016c0b9538f531a6b02639324.m3u8
+#EXTINF:-1 ,HUNAN
+http://aliplay.17zuoye.cn/live/0d061e1f8e5275918901d301cd93216f.m3u8
+#EXTINF:-1 ,HUBEI
+http://aliplay.17zuoye.cn/live/99eb78ff937a698aae9ac7de24bd2274.m3u8
