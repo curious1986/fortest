@@ -1,53 +1,102 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1
-http://aliplay.17zuoye.cn/live/993ba28275cbb0e1e2e75049b4946211.m3u8
-#EXTINF:-1 ,CCTV2
-http://aliplay.17zuoye.cn/live/f15e274d24d49a7aa31aefe9a24ce8a8.m3u8
-#EXTINF:-1 ,CCTV3
-http://aliplay.17zuoye.cn/live/657d1080713e69dc8fbe8fcd31e05e65.m3u8
-#EXTINF:-1 ,CCTV4
-http://aliplay.17zuoye.cn/live/9a6fa503341fc219a6d3c0d7437ee594.m3u8
-#EXTINF:-1 ,CCTV5
-http://aliplay.17zuoye.cn/live/d0f4db23551f95307a4db080eb932933.m3u8
-#EXTINF:-1 ,CCTV6
-http://aliplay.17zuoye.cn/live/248652b1f1cea20c630d9c71e9e4d32b.m3u8
-#EXTINF:-1 ,CCTV7
-http://aliplay.17zuoye.cn/live/02ce4a76c02119a1b2238dc165d8d2db.m3u8
-#EXTINF:-1 ,CCTV8
-http://aliplay.17zuoye.cn/live/7089da572d3f152fcba8d33b06b36f5e.m3u8
-#EXTINF:-1 ,CCTV9
-http://aliplay.17zuoye.cn/live/69757fadc0910260231ca193145885d2.m3u8
-#EXTINF:-1 ,CCTV10
-http://aliplay.17zuoye.cn/live/88d4a2c98787a774457b4774c35427b1.m3u8
-#EXTINF:-1 ,CCTV11
-http://aliplay.17zuoye.cn/live/11bfdb7569cf98aba4abce925aa81cc1.m3u8
-#EXTINF:-1 ,CCTV12
-http://aliplay.17zuoye.cn/live/97be6fde85ba57d163fcc24a691ecfe9.m3u8
-#EXTINF:-1 ,CCTV13
-http://aliplay.17zuoye.cn/live/13a6da50fc75844039b2ed891ede5a19.m3u8
-#EXTINF:-1 ,CCTV14
-http://aliplay.17zuoye.cn/live/a3bed5a2c32f54462fd2e426e5bbd73b.m3u8
-#EXTINF:-1 ,CCTV15
-http://aliplay.17zuoye.cn/live/655f8d0e9b5fc80c73a8b96526aca1ab.m3u8
-#EXTINF:-1 ,CCTV5+
-http://aliplay.17zuoye.cn/live/6d3102ff41bf2e9ae4656ccfe97b5e28.m3u8
-#EXTINF:-1 ,SHENZHEN
-http://aliplay.17zuoye.cn/live/680673bf9696aba0c2266e167bc65ab7.m3u8
-#EXTINF:-1 ,BEIJING
-http://aliplay.17zuoye.cn/live/11440e4960b5aa6a476a7368c4b3d1eb.m3u8
-#EXTINF:-1 ,DONGFANG
-http://aliplay.17zuoye.cn/live/ba5c1c57c2d87ef71c184e9d307f77ff.m3u8
-#EXTINF:-1 ,TIANJIN
-http://aliplay.17zuoye.cn/live/af331fac36ed19c5341badf085506f1a.m3u8
-#EXTINF:-1 ,CHONGQING
-http://aliplay.17zuoye.cn/live/2bf3f3fc8c554998c53c30488e4c8c4b.m3u8
-#EXTINF:-1 ,ANHUI
-http://aliplay.17zuoye.cn/live/a919148354828202a8fcaa0bfec27bef.m3u8
-#EXTINF:-1 ,ZHEJIANG
-http://aliplay.17zuoye.cn/live/fb01b4f3536a22a52e9475f6b3f48070.m3u8
-#EXTINF:-1 ,JIANGSU
-http://aliplay.17zuoye.cn/live/d50b6b8016c0b9538f531a6b02639324.m3u8
-#EXTINF:-1 ,HUNAN
-http://aliplay.17zuoye.cn/live/0d061e1f8e5275918901d301cd93216f.m3u8
-#EXTINF:-1 ,HUBEI
-http://aliplay.17zuoye.cn/live/99eb78ff937a698aae9ac7de24bd2274.m3u8
+#EXTINF:-1 tvg-name="******************** CHINA ***********" tvg-id="" group-title="" tvg-logo="",******************* CHINA ***********
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N8YdX6W.png" group-title="CHINA",Aniu TV
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Bao Ying
+http://jsby.chinashadt.com:2035/live/by2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png" group-title="CHINA",CCTV-1
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8
+ #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4.jpg" group-title="CHINA",CCTV-4
+https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fWVXqKc.png" group-title="CHINA",China Business Network
+https://w1live.livecdn.yicai.com/live/cbn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-logo="https://webtvonlive.com/wp-content/uploads/CGN-TV-webtvonlive-com.jpg" group-title="CHINA",CGNTV
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Hebei Jinzhou
+http://zhjz.chinashadt.com:2036/live/1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="CHINA",Hong Kong Open TV
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Huanghua
+http://hbhh.chinashadt.com:2111/live/hhtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hunan City" tvg-logo="" group-title="CHINA",Hunan City
+http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="Hunan TV" tvg-logo="" group-title="CHINA",Hunan TV
+http://hbpx.chinashadt.com:2036/live/px5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Huoshan Channel
+http://ahhs.chinashadt.com:1936/live/stream:hs1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1PG421013KU.jpg" group-title="CHINA",Jinju
+http://zhjz.chinashadt.com:2036/live/1.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jixian Channel 1" tvg-logo="" group-title="CHINA",Jixian Channel 1
+http://hblxx.chinashadt.com:2036/live/stream:lx1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jixian Channel 2" tvg-logo="" group-title="CHINA",Jixian Channel 2
+http://hblxx.chinashadt.com:2036/live/stream:lx2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Linyi Public Channel
+http://hblz.chinashadt.com:1538/live/di3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Lu Quan 1
+http://hblq.chinashadt.com:2036/live/stream:luquan1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Lu Quan 2
+http://hblq.chinashadt.com:2036/live/stream:luquan2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="CHINA",MASTV 1 Macau
+http://stream.mastvnet.com/MSTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="CHINA",MASTV 2 Macau
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kEcxOLc.png" group-title="CHINA",Max Financial Media
+http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Ninghua TV
+http://fjnh.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://m3u-iptv.ru/wp-content/uploads/2016/11/tv-300x294.png" group-title="CHINA",Nongan News
+http://stream2.jlntv.cn/naxw/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H36G8wZ.png" group-title="CHINA",RTHK TV 31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fmzC0MN.png" group-title="CHINA",RTHK TV 32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_702_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Sanming Public Channel 1
+http://stream.smntv.cn/smtv1/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Sanming Public Channel 2
+http://stream.smntv.cn/smtv2/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Sanya News
+http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Shao Dong
+http://hnsd.chinashadt.com:2036/live/stream:shaodong.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ZcRy1Q.png" group-title="CHINA",Sichuan Movie Channel
+http://live.sichuanmianning.com/live/xwpd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="CHINA",TDM Macau
+http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="CHINA",TDM Sports Macau
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="CHINA",TDM Info. Macau
+http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/59lAsao.png" group-title="CHINA",TDM Macau Satelite
+http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Tongren 2
+http://gztr.chinashadt.com:2036/live/stream:tr2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bdkf5yp.png" group-title="CHINA",UChannel TV
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Wan Sheng
+http://qxlmlive.cbg.cn:1935/app_2/ls_40.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Wan Zai Channel
+http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="CHINA",XMTV 1
+http://cstvpull.live.wscdns.com/live/xiamen1.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="CHINA",XMTV 2
+http://cstvpull.live.wscdns.com/live/xiamen2.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="CHINA",XMTV 3
+http://cstvpull.live.wscdns.com/live/xiamen3.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="CHINA",XMTV Star
+http://cstvpull.live.wscdns.com/live/xiamen4.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LcJZVV5.png" group-title="CHINA",Xuzhou TV 1
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LcJZVV5.png" group-title="CHINA",Xuzhou TV 2
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PDzWK3L.png" group-title="CHINA",Yushu TV Jilin 1
+http://stream.zhystv.com/yset/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PDzWK3L.png" group-title="CHINA",Yushu TV Jilin 2
+http://stream.zhystv.com/ysyt/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P31QT3040-L.jpg" group-title="CHINA",Zanhuang TV
+http://hbzz.chinashadt.com:2036/zhibo/4.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zhao County TV 1" tvg-logo="" group-title="CHINA",Zhao County TV 1
+http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Zhao County TV 2
+http://hbzx.chinashadt.com:2036/zhibo/stream:zx2.stream_360p/playlist.m3u8
+© 2021 GitHub, Inc.
