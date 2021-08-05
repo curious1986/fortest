@@ -149,4 +149,105 @@ https://taokexing.oss-cn-beijing.aliyuncs.com/4k/m3u8/suduyujiqing44k.m3u8
 https://taokexing.oss-cn-beijing.aliyuncs.com/4k/m3u8/suduyujiqing24k.m3u8
 #EXTINF:-1 group-title="4K Movie",suduyujiqing
 https://taokexing.oss-cn-beijing.aliyuncs.com/4k/m3u8/suduyujiqing4k.m3u8
-
+#EXTINF:-1 ,CCTV5
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 ,CCTV5+
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+#EXTINF:-1 ,CCTV5+
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+#EXTINF:-1 ,CCTV5
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 ,CCTV5+
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 ,CCTV5
+http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+#EXTINF:-1 ,CCTV5+
+http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1 ,CCTV5
+http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+#EXTINF:-1 ,CCTV5
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV5
+http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 ,CCTV5+
+http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+#EXTINF:-1 ,CCTV5+
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV5+
+http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 ,Eltasport 1
+rtmp://59.124.75.153/sat/md011
+#EXTINF:-1 ,Eltasport 2
+rtmp://59.124.75.153/sat/md021
+#EXTINF:-1 ,Eltasport 3
+rtmp://59.124.75.153/sat/md051
+#EXTINF:-1 ,wuxing
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,super
+http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 ,super
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
+#EXTINF:-1 ,super
+http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
+#EXTINF:-1 ,migu
+http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 ,SPORT: AR: BEIN Sports 1
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/776
+#EXTINF:-1 ,SPORT: AR: BEIN Sports 2
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/777
+#EXTINF:-1 ,SPORT: AR: BEIN Sports 3
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/778
+#EXTINF:-1 ,SPORT: AR: BEIN Sports 4
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/779
+#EXTINF:-1 ,SPORT: AR: BEIN Sports 5
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/780
+#EXTINF:-1 ,SPORT: AR: BEIN Sports 7
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/782
+#EXTINF:-1 ,SPORT: AR: BEIN Sports 9
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/784
+#EXTINF:-1 ,SPORT: AR: BEIN Sports 10
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/785
+#EXTINF:-1 ,NBCSportsHD-p5p
+p5p://0198.02686.cc:16871/5d1a69e4000e44c011be9b68f012ff10.ts
+#EXTINF:-1 ,SPORT: FR: Eurosport 1
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/794
+#EXTINF:-1 ,SPORT: FR: Eurosport 2
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/795
+#EXTINF:-1 ,Sport: IT: Eurosport 1
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1478
+#EXTINF:-1 ,ZA: SuperSport Premier League
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/6278
+#EXTINF:-1 ,ZA: SuperSport LaLiga
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/6273
+#EXTINF:-1 ,ZA: SuperSport Action
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/6275
+#EXTINF:-1 ,ZA: SuperSport GrandStand
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/6268
+#EXTINF:-1 ,ASTRO SPORT 2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 ,ASTRO SPORT 2
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+#EXTINF:-1 ,ASTRO SPORT 4
+http://159.192.73.198:1072/astro4
+#EXTINF:-1 ,ASTRO SPORT 4
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+#EXTINF:-1 ,Olympic 785
+https://link.zozotv.xyz:443/Freemium1/unlimited99/318
+#EXTINF:-1 ,Olympic 786
+https://link.zozotv.xyz:443/Freemium1/unlimited99/319
+#EXTINF:-1 ,Olympic 787
+https://link.zozotv.xyz:443/Freemium1/unlimited99/320
+#EXTINF:-1 ,Olympic 788
+https://link.zozotv.xyz:443/Freemium1/unlimited99/321
+#EXTINF:-1 ,Olympic 789
+https://link.zozotv.xyz:443/Freemium1/unlimited99/322
+#EXTINF:-1 ,Olympic 790
+https://link.zozotv.xyz:443/Freemium1/unlimited99/323
+#EXTINF:-1 ,Olympic 791
+https://link.zozotv.xyz:443/Freemium1/unlimited99/324
+#EXTINF:-1 ,Olympic 792
+https://link.zozotv.xyz:443/Freemium1/unlimited99/325
+#EXTINF:-1 ,Olympic 793
+https://link.zozotv.xyz:443/Freemium1/unlimited99/326
+#EXTINF:-1 ,Olympic 794
+https://link.zozotv.xyz:443/Freemium1/unlimited99/327
