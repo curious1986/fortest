@@ -89,7 +89,7 @@ http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 #EXTINF:-1 ,CCTV5+
 http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1,CCTV5+
+#EXTINF:-1,CCTV5
 http://39.135.34.132:8080/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV5+
 http://39.135.34.132:8080/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive
