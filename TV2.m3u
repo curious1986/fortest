@@ -1,99 +1,99 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="JinBaoTiyu" JinBaoTiyu
+#EXTINF:-1 JinBaoTiyuJinBaoTiyu
 http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="XinShijue" XinShijue
+#EXTINF:-1 XinShijueXinShijue
 http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/xsjhd/2300000/mnf.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="WuxingTiyu" WuxingTiyu
+#EXTINF:-1 WuxingTiyuWuxingTiyu
 http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" CCTV-1
+#EXTINF:-1 CCTV-1CCTV-1
 http://39.134.216.5/live.cache.cmvideo.cn:8088/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-2" CCTV-2
+#EXTINF:-1 CCTV-2CCTV-2
 http://39.134.216.5/live.cache.cmvideo.cn:8088/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-3" CCTV-3
+#EXTINF:-1 CCTV-3CCTV-3
 http://39.134.216.5/live.cache.cmvideo.cn:8088/wd_r2/ocn/cctv3hd/3000/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-4" CCTV-4
+#EXTINF:-1 CCTV-4CCTV-4
 http://39.134.216.5/live.cache.cmvideo.cn:8088/wd_r2/cctv/cctv4hd/3000/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-5" CCTV-5
+#EXTINF:-1 CCTV-5CCTV-5
 http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-5+" CCTV-5+
+#EXTINF:-1 CCTV-5+CCTV-5+
 http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/2300000/mnf.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-6" CCTV-6
+#EXTINF:-1 CCTV-6CCTV-6
 http://39.134.216.5/live.cache.cmvideo.cn:8088/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-7" CCTV-7
+#EXTINF:-1 CCTV-7CCTV-7
 http://39.134.216.5/live.cache.cmvideo.cn:8088/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV8" CCTV8
+#EXTINF:-1 CCTV8CCTV8
 http://39.134.216.5/live.cache.cmvideo.cn:8088/wd_r2/ocn/cctv8hd/3000/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV9" CCTV9
+#EXTINF:-1 CCTV9CCTV9
 http://39.134.216.5/live.cache.cmvideo.cn:8088/migu/kailu/20200324/cctv9hd/57/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV10" CCTV10
+#EXTINF:-1 CCTV10CCTV10
 http://39.134.216.5/live.cache.cmvideo.cn:8088/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV11" CCTV11
+#EXTINF:-1 CCTV11CCTV11
 http://39.134.216.5/live.cache.cmvideo.cn:8088/migu/kailu/cctv11hd/57/20200103/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV12" CCTV12
+#EXTINF:-1 CCTV12CCTV12
 http://39.134.216.5/live.cache.cmvideo.cn:8088/migu/kailu/20200324/cctv12hd/57/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV13" CCTV13
+#EXTINF:-1 CCTV13CCTV13
 http://39.134.116.30:8080/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV15" CCTV15
+#EXTINF:-1 CCTV15CCTV15
 http://39.134.216.5/live.cache.cmvideo.cn:8088/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV17" CCTV17
+#EXTINF:-1 CCTV17CCTV17
 http://39.134.216.5/live.cache.cmvideo.cn:8088/migu/kailu/20200324/cctv17hd/57/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="1" tvg-name="HuNan" HuNan
+#EXTINF:-1 HuNanHuNan
 http://39.134.116.30:8080/PLTV/88888910/224/3221225745/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="JiangSu" JiangSu
+#EXTINF:-1 JiangSuJiangSu
 http://39.134.116.30:8080/PLTV/88888910/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Zhejiang" Zhejiang
+#EXTINF:-1 ZhejiangZhejiang
 http://39.134.116.30:8080/PLTV/88888910/224/3221225744/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Dongfang" Dongfang
+#EXTINF:-1 DongfangDongfang
 http://39.134.116.30:8080/PLTV/88888910/224/3221225658/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Beijing" Beijing
+#EXTINF:-1 BeijingBeijing
 http://39.134.116.30:8080/PLTV/88888910/224/3221225673/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Shenzhen" Shenzhen
+#EXTINF:-1 ShenzhenShenzhen
 http://39.134.116.30:8080/PLTV/88888910/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Guangdong" Guangdong
+#EXTINF:-1 GuangdongGuangdong
 http://39.134.116.30:8080/PLTV/88888910/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Anhui" Anhui
+#EXTINF:-1 AnhuiAnhui
 http://39.134.116.30:8080/PLTV/88888910/224/3221225737/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Dongnan" Dongnan
+#EXTINF:-1 DongnanDongnan
 http://39.134.116.30:8080/PLTV/88888910/224/3221225657/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Hebei" Hebei
+#EXTINF:-1 HebeiHebei
 http://live2.plus.hebtv.com/hbwsx/hd/live.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Heilongjiang" Heilongjiang
+#EXTINF:-1 HeilongjiangHeilongjiang
 http://39.134.116.30:8080/PLTV/88888910/224/3221225736/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Hubei" Hubei
+#EXTINF:-1 HubeiHubei
 http://39.134.116.30:8080/PLTV/88888910/224/3221225740/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Jiangxi" Jiangxi
+#EXTINF:-1 JiangxiJiangxi
 http://39.134.116.30:8080/PLTV/88888910/224/3221225746/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Liaoning" Liaoning
+#EXTINF:-1 LiaoningLiaoning
 http://39.134.116.30:8080/PLTV/88888910/224/3221225735/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Shandong" Shandong
+#EXTINF:-1 ShandongShandong
 http://39.134.116.30:8080/PLTV/88888910/224/3221225738/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Tianjin" Tianjin
+#EXTINF:-1 TianjinTianjin
 http://39.134.116.30:8080/PLTV/88888910/224/3221225739/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Chongqing" Chongqing
+#EXTINF:-1 ChongqingChongqing
 http://39.134.116.30:8080/PLTV/88888910/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Gansu" Gansu
+#EXTINF:-1 GansuGansu
 http://39.134.118.91/live.cache.cmvideo.cn:8088/envivo_v/2018/SD/gansu/1000/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="1" tvg-name="Qinghai" Qinghai
+#EXTINF:-1 QinghaiQinghai
 http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/qhws/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Yunnan" Yunnan
+#EXTINF:-1 YunnanYunnan
 http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/ynws/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Neimenggu" Neimenggu
+#EXTINF:-1 NeimengguNeimenggu
 http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/nmgws/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Shanxi" Shanxi
+#EXTINF:-1 ShanxiShanxi
 http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/shanxiws/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Shannxi" Shannxi
+#EXTINF:-1 ShannxiShannxi
 http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/sxws/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Bingtuan" Bingtuan
+#EXTINF:-1 BingtuanBingtuan
 http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/btws/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Xinjiang" Xinjiang
+#EXTINF:-1 XinjiangXinjiang
 http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/xjws/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Xizang" Xizang
+#EXTINF:-1 XizangXizang
 http://39.134.118.91/live.cache.cmvideo.cn:8088/envivo_x/2018/SD/xizang/1000/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="1" tvg-name="Ningxia" Ningxia
+#EXTINF:-1 NingxiaNingxia
 http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/nxws/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Fenghuang" Fenghuang
+#EXTINF:-1 FenghuangFenghuang
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P 
-#EXTINF:-1 tvg-id="1" tvg-name="FenghuangNews" FenghuangNews
+#EXTINF:-1 FenghuangNewsFenghuangNews
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
 #EXTINF:-1 ,CCTV4K 35M2160
 http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
