@@ -372,8 +372,8 @@ http://live3.plus.hebtv.com/hbdsx/playlist.m3u8
 http://live6.plus.hebtv.com/sekjx/playlist.m3u8
 #EXTINF:-1 ,HebeiPublic
 http://live7.plus.hebtv.com/hbggx/playlist.m3u8
-
-
+#EXTINF:-1 ,Bein
+https://list.iptvcat.com/my_list/s/65e26ed289bcd6a88bd405c39f87e948.m3u8
 
 
 
