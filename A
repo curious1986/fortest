@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,CCTV 16
+http://59.49.72.48/live.aishang.ctlcdn.com/00000110240388_1/encoder/0/playlist.m3u8
+#EXTINF:-1,CCTV 16
+http://223.110.251.152:6610/cntv/live1/HD-8000k-1080P-cctv16/HD-8000k-1080P-cctv16
 #EXTINF:-1,Kungfu
 http://103.140.229.13/BOBO/bibi.php?id=21715386
 #EXTINF:-1,C+
