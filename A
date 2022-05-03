@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,CCTV5
+http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8?fmt=ts2hls
 #EXTINF:-1,8K
 http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
 #EXTINF:-1,4K
