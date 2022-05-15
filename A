@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="中央频道,#genre#",3: CCTV-1
+http://live01-ali.myeogm.com/live/streamcnhd13732.m3u8?auth_key=1652654100-28c5ae1c0bda408182d22a07f5b12cdd-0-119ea2b924730a1e4851ac72e0711190
+#EXTINF:-1 group-title="中央频道,#genre#",3: CCTV-1
 http://117.148.179.165/PLTV/88888888/224/3221231468/index.m3u8
 #EXTINF:-1 group-title="中央频道,#genre#",5: CCTV-1
 http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
