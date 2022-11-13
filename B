@@ -1,6 +1,4 @@
 #EXTM3U       
-#EXTINF:-1 group-title="央视",CCTV-1HD 
-https://masmaskk44.azureedge.net/live/MMA/chunks.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1HD
 http://39.134.67.108/PLTV/88888888/224/3221225734/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2HD
