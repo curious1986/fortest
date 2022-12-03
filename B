@@ -2,3 +2,4 @@
 #EXTINF:-1 group-title="央视",CCTV-16
 http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-16
+http://live.cooltv.top/tv/aishang.php?id=cctv164k
