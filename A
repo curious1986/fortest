@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1
-https://91play.xinzhongjituan.com/live/sd-1-3755328.m3u8
+https://txcdn.zb.qq.com/1370396103.m3u8?from=player&time=1672452114&cdn=tcloud&sdtfrom=v402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIAs4R9V4ZXS-o44kHxmQWB-hh3mI1FaO0Z0h4iAHDqboEOoYcidujLufVUhoY5oX1JoBMGOd20nIkxvCfCwq9et7ANw4ds6-tHBVikEHrLpGpezHCFVTIiVmhCFvQHrOoRoMTUJ95Kc9JG6oy08g2geZ_3KpXQcpXMHB5tbWTsmQo7S1fA5i10psyx9wmlgPr-cCrM_4WvZwthpttUBZG-JK8e4jYbUZel7GmO-X-Qwsk-Ruyt0Aw7y-rErSsgRX9H05otY-Sjd43ozwZm0VsAIBU_-cAIH59PLbjshMlUUt4wEVDyW9_yTlznN_L-nc9-oyHL9TVF1krWQGaUUPIt2IByNW-wCONHHWUPhn6OT-j20MxfK-Ew06_Lqmx6eNe2GBxl5b_aFjze7Q_r-uRm8leSRKJe4rrBiNxn9Pg2vQfqRpiBCsDK8TisdesOMVJrG-ApdvOwHpOzibbUKUsG2jYq4=&drmtype=0
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2
