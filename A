@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-A
-http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+https://txcdn.zb.qq.com/1755836101.m3u8?from=player&time=1672974233&cdn=tcloud&sdtfrom=v402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIL83tksj5rTXZsqAKaQQ5VqSNqaK9Q3FAQPwLoGHb8BwEOGPdPdjRiOTGFvJX08-luIBMIsoMnhfRi5KGTXfam0s1_03r0onBdiWTIdU20R0xdIxnywdKGd9SBufcA4xkkUBpzMyseJBEq6NMtYnrJbMZaXpKkFNrIaBBTZM-xmk_vrBsKl4MiMc4gBNe4pXVMP59xybcyhlxd34EJZcO-JYOV895Z5tpVw_E32om_loNRuR-xmgAdWec9-S6Tl2Hb2CQK6iEUIHaXdZeuK9NnbWJtIJ1ljvYIkyUDmizpNPhtSmxE501QqyR0YHWFnti3GqZ6arRQjqRRJaq0L8qE8djrJ1GmAinRD8teW35PJv3XMRGFuN-1O5ERFNRJJlOq5oSB2Jhil7n7TUO2TtCE9TL2_RIx7Qk4gZm0iFZixm4lRPGBAsi7z7yix-Z2kfxPQxNR-dUpXGdSLnnXjgGI1HXZg=&drmtype=0
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1
