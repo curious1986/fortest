@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 CCTV1_3M1080
+#EXTINF:-1,CCTV1_3M1080
 http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000265001&livemode=1&stbId=3
-#EXTINF:-1 CCTV3_2.5M1080HEVC
+#EXTINF:-1,CCTV3_2.5M1080HEVC
 http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000265003&livemode=1&stbId=3
-#EXTINF:-1 CCTV4_2.5M1080HEVC
+#EXTINF:-1,CCTV4_2.5M1080HEVC
 http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000265004&livemode=1&stbId=3
-#EXTINF:-1 CCTV5_2.5M1080HEVC
+#EXTINF:-1,CCTV5_2.5M1080HEVC
 http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000265005&livemode=1&stbId=3
-#EXTINF:-1 CCTV6_2.5M1080HEVC
+#EXTINF:-1,CCTV6_2.5M1080HEVC
 http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000265006&livemode=1&stbId=3
-#EXTINF:-1 上海东方卫视_2.5M1080HEVC
+#EXTINF:-1,上海东方卫视_2.5M1080HEVC
 http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000265007&livemode=1&stbId=3
-#EXTINF:-1 江苏卫视_2.5M1080HEVC
+#EXTINF:-1,江苏卫视_2.5M1080HEVC
 http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000265009&livemode=1&stbId=3
-#EXTINF:-1 湖南卫视_2.5M1080HEVC
+#EXTINF:-1,湖南卫视_2.5M1080HEVC
 http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000265010&livemode=1&stbId=3
-#EXTINF:-1 北京卫视_2.5M1080HEVC
+#EXTINF:-1,北京卫视_2.5M1080HEVC
 http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000265011&livemode=1&stbId=3
 #EXTINF:-1 group-title="CCTV",CCTV1
 http://59.47.118.242:801/hls/1/index.m3u8
