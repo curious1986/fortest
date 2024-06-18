@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1,CCTV1_3M1080
 http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000265001&livemode=1&stbId=3
+#EXTINF:-1,CCTV5-1
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel5/1300.m3u8
+#EXTINF:-1,CCTV5-2
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel5/2300.m3u8
 #EXTINF:-1,CCTV3_2.5M1080HEVC
 http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000265003&livemode=1&stbId=3
 #EXTINF:-1,CCTV4_2.5M1080HEVC
